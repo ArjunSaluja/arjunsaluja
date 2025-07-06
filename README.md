@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hello, I'm Arjun Singh Saluja
 
-<!--
-**ArjunSaluja/arjunsaluja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AWS Specialization) | ☁️ AWS Certified Cloud Practitioner  
+💻 MERN Stack Developer | 🧠 500+ DSA problems solved on CodeChef  
+🌟 Open Source Contributor | 💬 Passionate about backend & cloud
 
-Here are some ideas to get you started:
+## 🚀 My Projects
+- 🛒 [Nike E-commerce Website](https://github.com/arjunsaluja/NikeShoe)
+- 💼 [Job Portal - MERN Stack](https://github.com/arjunsaluja/Job-Portal)
+- 🤖 [AI Chatbot on AWS Lambda](https://github.com/arjunsaluja/AI-Chatbot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- `React`
+- `Node.js`
+- `MongoDB`
+- `Express.js`
+- `AWS Lambda`
+- `S3`
+- `DynamoDB`
+- `Git`
+
+## 📈 GitHub Stats
+[![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjunsaluja&show_icons=true&theme=radical)](https://github.com/arjunsaluja)
+
+## 📬 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin)](https://linkedin.com/in/arjunsaluja)
+[![GitHub](https://img.shields.io/badge/github-black?style=flat&logo=github)](https://github.com/arjunsaluja)
