@@ -5,7 +5,7 @@
 🌟 Open Source Contributor | 💬 Passionate about backend & cloud
 
 ## 🚀 My Projects
-- 🛒 [Nike E-commerce Website](https://github.com/arjunsaluja/NikeShoe)
+- 🛒 [Nike E-commerce Website](https://github.com/ArjunSaluja/project1)
 - 💼 [Job Portal - MERN Stack](https://github.com/ArjunSaluja/Jobportal2)
 - 🤖 [AI Chatbot on AWS Lambda](https://github.com/arjunsaluja/AI-Chatbot)
 
