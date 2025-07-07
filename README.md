@@ -6,7 +6,7 @@
 
 ## 🚀 My Projects
 - 🛒 [Nike E-commerce Website](https://github.com/arjunsaluja/NikeShoe)
-- 💼 [Job Portal - MERN Stack](https://github.com/arjunsaluja/Job-Portal)
+- 💼 [Job Portal - MERN Stack](https://github.com/ArjunSaluja/Jobportal2)
 - 🤖 [AI Chatbot on AWS Lambda](https://github.com/arjunsaluja/AI-Chatbot)
 
 ## 🛠️ Tech Stack
