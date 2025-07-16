@@ -23,5 +23,5 @@
 [![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=arjunsaluja&show_icons=true&theme=radical)](https://github.com/arjunsaluja)
 
 ## 📬 Connect with me
-[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin)](https://linkedin.com/in/arjunsaluja)
-[![GitHub](https://img.shields.io/badge/github-black?style=flat&logo=github)](https://github.com/arjunsaluja)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin)](http://linkedin.com/in/arjunsaluja15)
+[![GitHub](https://img.shields.io/badge/github-black?style=flat&logo=github)](https://github.com/http://github.com/ArjunSaluja)
