@@ -57,6 +57,18 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+![Arjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArjunSaluja&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunSaluja&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ArjunSaluja&theme=tokyonight&date_format=j%20M%5B%20Y%5D)  
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ArjunSaluja&theme=tokyonight&no-frame=true&margin-w=5)  
+
+---
+
 ## 🌐 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/arjunsaluja15/)  
