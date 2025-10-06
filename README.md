@@ -48,11 +48,6 @@
 * Integrated **AI Chatbot** for customer support
 * **Hosted on Amazon S3**
 
-**Screenshots / GIF:**
-![Nike Website Screenshot](https://user-images.githubusercontent.com/placeholder/nike-screenshot.png)
-
-**Live Demo:** [View Here](https://nike-ecommerce-demo.s3.amazonaws.com)
-
 **Installation (Locally):**
 
 ```bash
@@ -67,11 +62,6 @@ open index.html
 
 * Built using **MERN Stack (MongoDB, Express, React, Node.js)**
 * Features: User authentication, job listings, recruiter dashboard, application tracking
-
-**Screenshots / GIF:**
-![Job Portal Screenshot](https://user-images.githubusercontent.com/placeholder/jobportal-screenshot.png)
-
-**Live Demo:** [View Here](https://jobportal-demo.vercel.app)
 
 **Installation (Locally):**
 
@@ -88,8 +78,6 @@ npm start
 
 * Banking-related chatbot integrated with **AWS Lex + Lambda**
 * Demonstrates **intent handling, serverless logic, and code hooks**
-
-**Live Demo / Video:** [View Here](https://drive.google.com/file/d/1USJ5MzZsJ1aalY3_-Hx8ZwAsj10NNeOX/view)
 
 ---
 
